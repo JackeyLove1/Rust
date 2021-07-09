@@ -1,2 +1,2 @@
 # Rust
-My Rust Projects
+Rust Study Projects
